@@ -1,11 +1,11 @@
 # Site settings
 author: James Mobus
-title: 
+title: A New Calculation
 header-img: img/home-bg.png
 email: mobusj@live.com
 copyright_name: James Mobus
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Mathematician Learning to Program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JASPMobus
