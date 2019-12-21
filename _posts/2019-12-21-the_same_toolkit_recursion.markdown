@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The Same Toolkit: Recursion"
-date:       2019-12-21 21:43:41 +0000
+title:      "A Shared Strategy - Recursion"
+date:       2019-12-21 16:43:42 -0500
 permalink:  the_same_toolkit_recursion
 ---
 
