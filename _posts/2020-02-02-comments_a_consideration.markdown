@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Comments, A Consideration"
-date:       2020-02-03 03:35:09 +0000
+date:       2020-02-02 22:35:10 -0500
 permalink:  comments_a_consideration
 ---
 
