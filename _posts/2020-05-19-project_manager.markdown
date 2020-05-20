@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project Manager"
-date:       2020-05-20 02:23:52 +0000
+date:       2020-05-19 22:23:53 -0400
 permalink:  project_manager
 ---
 
